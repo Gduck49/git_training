@@ -5,3 +5,5 @@ Hi! My name is Bob.  I've been here for a while.
 I am new here.  But I like to change things around.
 
 And now for something completely different.  A mixed merge.
+
+This was supposed to have been done in Alice.txt.  Oh well.
