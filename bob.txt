@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Hi! My name is Bob.  I've been here for a while.
+=======
+>>>>>>> bobby_branch
 I am new here.  But I like to change things around.
 
 And now for something completely different.  A mixed merge.
