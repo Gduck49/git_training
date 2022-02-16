@@ -1,8 +1,1 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-I'm not feeling so all alone now that Bob is here.
-
-Same sort of change here as we just made for Bob.
-
-This edit is being made on the remote repository MASTER branch.
-Let's create more conflict.
-
