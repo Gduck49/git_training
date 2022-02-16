@@ -1,1 +1,3 @@
 Hello, my name is Bob.txt.  I am here to keep Alice company.
+
+HI!  I'm Bob and I am new here.
